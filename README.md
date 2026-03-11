@@ -1,6 +1,5 @@
 # Damn Vulnerable Model Context Protocol (DVMCP)
 
-
 A deliberately vulnerable implementation of the Model Context Protocol (MCP) for educational purposes.
 
 ## Overview
