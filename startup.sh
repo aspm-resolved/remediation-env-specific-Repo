@@ -63,7 +63,7 @@ AWS:
   Region: us-west-2
 
 API Gateway:
-  Secret: 9i8u7y6t5r4e3w2q1z0x9c8v7b6n5m4k3j2h1g
+
 EOF
 
 # Challenge 10 setup (multi-vector attack)
