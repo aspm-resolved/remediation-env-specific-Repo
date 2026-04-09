@@ -26,7 +26,7 @@ class Challenge3Server:
             # Vulnerable: No proper path validation or permission checks
             if action == "read":
                 try:
-                    with open(path, 'r') as f:
+
                         return f.read()
                 except Exception as e:
                     return f"Error reading file: {str(e)}"
